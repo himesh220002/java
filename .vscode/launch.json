@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch condition",
+            "request": "launch",
+            "mainClass": "condition",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
             "name": "Launch FirstClass",
             "request": "launch",
             "mainClass": "FirstClass",
@@ -27,7 +34,7 @@
             "runtimeArgs": [
                 "--remote-debugging-port=9222"
             ],
-            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
             "presentation": {
                 "hidden": true
             }
@@ -40,7 +47,7 @@
                 "--headless",
                 "--remote-debugging-port=9222"
             ],
-            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
             "presentation": {
                 "hidden": true
             }
@@ -49,7 +56,7 @@
             "type": "vscode-edge-devtools.debug",
             "name": "Open Edge DevTools",
             "request": "attach",
-            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "url": "c:\\Users\\satya\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html",
             "presentation": {
                 "hidden": true
             }
