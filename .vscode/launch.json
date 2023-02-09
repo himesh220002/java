@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
             "name": "Launch calculator",
             "request": "launch",
             "mainClass": "calculator",
