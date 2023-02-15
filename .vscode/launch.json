@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch buterfly",
+            "request": "launch",
+            "mainClass": "buterfly",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
+            "name": "Launch binpattern",
+            "request": "launch",
+            "mainClass": "binpattern",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
             "name": "Launch pattern",
             "request": "launch",
             "mainClass": "pattern",
