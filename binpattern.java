@@ -2,7 +2,7 @@ import java.util.*;
 class binpattern{
     public static void main(String[] args) {
         int n=4;
-      /*   for(int i=1;i<=n;i++){
+         for(int i=1;i<=n;i++){
             for(int j=1;j<=i;j++){
                 int sum = i+j;
                 if(sum%2==0){
@@ -14,10 +14,6 @@ class binpattern{
             }
             System.out.println();
         }
-        System.out.println();    */
-
-      
-        //upper part of butterfly
-             
+        System.out.println();    
     }
 }
