@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch spiralArray",
+            "request": "launch",
+            "mainClass": "spiralArray",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
+            "name": "Launch spirelarray",
+            "request": "launch",
+            "mainClass": "spirelarray",
+            "projectName": "java form srk_8345b15f"
+        },
+        {
+            "type": "java",
             "name": "Launch buterfly",
             "request": "launch",
             "mainClass": "buterfly",
